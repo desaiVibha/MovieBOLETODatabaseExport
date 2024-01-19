@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6554e7269f9c1e65d3912d2e"
+  },
+  "movie_id": 1,
+  "name": "The Nice Guys",
+  "image": "https://wp.scoopwhoop.com/wp-content/uploads/2017/09/4a281dc4-0a7d-4c53-acc7-4a9eb0293db0.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6554e73c9f9c1e65d3912d2f"
+  },
+  "movie_id": 2,
+  "name": "The Lost City",
+  "image": "https://m.media-amazon.com/images/S/pv-target-images/cc76e1db44cb4d0ff656b45c120d0b6077f6d85807b589dcd31e8d78d3ed1f61.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6554e7509f9c1e65d3912d30"
+  },
+  "movie_id": 3,
+  "name": "Mantralaya Mahatme",
+  "image": "https://qph.cf2.quoracdn.net/main-qimg-c2957883a15fe1dbce0a0f9278cfb0e5.webp",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6554e76d9f9c1e65d3912d31"
+  },
+  "movie_id": 4,
+  "name": "KGF Chapter-1",
+  "image": "https://images.news18.com/ibnlive/uploads/2022/11/untitled-design-3-39-1-2-1-1-1-1-1.png",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6554e7869f9c1e65d3912d32"
+  },
+  "movie_id": 5,
+  "name": "Chennai Express",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Chennai_Express.jpg",
+  "rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "659e92c475d4e0c580f8a104"
+  },
+  "movie_id": 6,
+  "name": "Gremlins",
+  "image": "https://m.media-amazon.com/images/M/MV5BN2UxNTA1ZWUtMGMyOC00MjUzLThiNzgtMTc5YmMzOWUwZWFhXkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "659e938b75d4e0c580f8a105"
+  },
+  "movie_id": 7,
+  "name": "Big Fish",
+  "image": "https://s.yimg.com/ny/api/res/1.2/4kNNHV11mcGCwIT.LYUzbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NA--/https://media.zenfs.com/en_US/News/TheWrap/Big-Fish-movie.jpg",
+  "rating": 3.5
+},
+{
+  "_id": {
+    "$oid": "659e949875d4e0c580f8a106"
+  },
+  "movie_id": 8,
+  "name": "Gilbert Grape",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjU5NDllOTgtMjkzYy00ZWNmLThkMTItMzU0NzMxOTM2OWY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "659e955175d4e0c580f8a107"
+  },
+  "movie_id": 9,
+  "name": "Rain Map",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/12/The_Rain.png",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "659e95ce75d4e0c580f8a108"
+  },
+  "movie_id": 10,
+  "name": "The King's Speech",
+  "image": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "659e96b175d4e0c580f8a109"
+  },
+  "movie_id": 11,
+  "name": "young sheldon",
+  "image": "https://m.media-amazon.com/images/I/81c8B0UbFtL._AC_UF1000,1000_QL80_.jpg",
+  "rating": 4
+}]

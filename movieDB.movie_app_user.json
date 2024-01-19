@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "64de27961b153f0e54b8fda8"
+  },
+  "id": 1,
+  "last_login": null,
+  "name": "Rayaru",
+  "email": "mantralaya@gmail.com",
+  "password": "pbkdf2_sha256$390000$loOdzpQZ7SJnK2ihavT1bC$xzE2L4wLlgwEl/i12MZzYqugsKCjEhTuo9XzB2qDUTY=",
+  "username": "rayare",
+  "mobileNumber": null
+},
+{
+  "_id": {
+    "$oid": "64fff24b6e93df2ec6d2303b"
+  },
+  "id": 2,
+  "last_login": null,
+  "name": "Shrivibhu",
+  "email": "shrivibhu@gmail.com",
+  "password": "pbkdf2_sha256$390000$4aMIZOpMd5sOzGRXdPWmGw$MFYcCH/EkE0/IfH4x7LtIkRJU5Z2T9KOgyRImk/Bwfk=",
+  "username": "gunda",
+  "mobileNumber": null
+},
+{
+  "_id": {
+    "$oid": "655706e32559fb9cd8e6b221"
+  },
+  "id": 3,
+  "last_login": null,
+  "name": "Rayaru",
+  "email": "mantralaya@gmail.com",
+  "password": "pbkdf2_sha256$390000$K3p2GEYVNZYCd8CEPwxphI$iA32cBUB9JiDByXEn7dBzFGi+i5rm49rN2T8NE9GovY=",
+  "username": "nammarayaru",
+  "mobileNumber": {
+    "$numberLong": "9036298324"
+  }
+},
+{
+  "_id": {
+    "$oid": "65584e973d58efdd44a35b50"
+  },
+  "id": 4,
+  "last_login": null,
+  "name": "Srikanth",
+  "email": "srikanthdesai4@gmail.com",
+  "password": "pbkdf2_sha256$390000$loJ1qkgUi69sxLSvsIeZ7v$JZ4vuZPP02fMQc1t5S9eMWmtQQkUZCTg/XvUgLpiQBw=",
+  "username": "shri",
+  "mobileNumber": {
+    "$numberLong": "8123480191"
+  }
+},
+{
+  "_id": {
+    "$oid": "65584f083d58efdd44a35b51"
+  },
+  "id": 5,
+  "last_login": null,
+  "name": "Shrivibhu",
+  "email": "shrivibhu4@gmail.com",
+  "password": "pbkdf2_sha256$390000$CozBABkcKZXF3toAM8hwwE$bq9/L35mns4B6LmmehvuQhgfAr0V77gZn1JMLQn8ozM=",
+  "username": "bubu",
+  "mobileNumber": {
+    "$numberLong": "8317321395"
+  }
+},
+{
+  "_id": {
+    "$oid": "656dd748ec961383bb143f62"
+  },
+  "id": 6,
+  "last_login": null,
+  "name": "Amma",
+  "email": "ammavaidya@gmail.com",
+  "password": "pbkdf2_sha256$390000$nFdc6qRi8G1nAS8qs02Wcv$u0LbUPwlVdzG5SjO8Ehw7EYAh94d7qCLYRxpx9e9/wk=",
+  "username": "ammas",
+  "mobileNumber": {
+    "$numberLong": "9876543210"
+  }
+},
+{
+  "_id": {
+    "$oid": "65aa15335758d60e82333097"
+  },
+  "id": 7,
+  "last_login": null,
+  "name": "Coding Invaders",
+  "email": "codinginvaders@gmail.com",
+  "password": "pbkdf2_sha256$390000$XoFkvf0bXf05XsQexQcyeQ$I+oy/WBUaj0Gu0N/sDO1SYQnZX9AeyrVMT+zF1JIltM=",
+  "username": "funcode",
+  "mobileNumber": {
+    "$numberLong": "9987654321"
+  }
+}]

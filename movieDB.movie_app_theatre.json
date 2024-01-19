@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "655b35ea5d6be769881f7f3d"
+  },
+  "theatre_id": 1,
+  "theatre_name": "Karnataka Talkies",
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "655b36105d6be769881f7f3e"
+  },
+  "theatre_id": 2,
+  "theatre_name": "Govardhan Talkies",
+  "city": "Bangalore"
+},
+{
+  "_id": {
+    "$oid": "655b36385d6be769881f7f3f"
+  },
+  "theatre_id": 3,
+  "theatre_name": "Apsara Talkies",
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "655b364e5d6be769881f7f40"
+  },
+  "theatre_id": 4,
+  "theatre_name": "Sujata Talkies",
+  "city": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "655b36665d6be769881f7f41"
+  },
+  "theatre_id": 5,
+  "theatre_name": "Orion Mall",
+  "city": "Chennai"
+},
+{
+  "_id": {
+    "$oid": "655b36775d6be769881f7f42"
+  },
+  "theatre_id": 6,
+  "theatre_name": "Binnipet Mall",
+  "city": "Mumbai"
+}]

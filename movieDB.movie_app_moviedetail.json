@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "65588e42c8766a4e355bd45d"
+  },
+  "movie_id": 1,
+  "language": "English",
+  "genre": [
+    "drama",
+    "comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65588ef2c8766a4e355bd460"
+  },
+  "movie_id": 2,
+  "language": "English",
+  "genre": [
+    "action",
+    "romantic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65588f13c8766a4e355bd461"
+  },
+  "movie_id": 3,
+  "language": "Kannada",
+  "genre": "devotional"
+},
+{
+  "_id": {
+    "$oid": "65588f3ac8766a4e355bd462"
+  },
+  "movie_id": 4,
+  "language": "Kannada",
+  "genre": [
+    "thriller",
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65588f59c8766a4e355bd463"
+  },
+  "movie_id": 5,
+  "language": "Hindi",
+  "genre": [
+    "comedy",
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e99a475d4e0c580f8a119"
+  },
+  "movie_id": 6,
+  "language": "English",
+  "genre": [
+    "comedy",
+    "fantasy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e99b875d4e0c580f8a11a"
+  },
+  "movie_id": 7,
+  "language": "English",
+  "genre": [
+    "adventure",
+    "drama"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e99cb75d4e0c580f8a11b"
+  },
+  "movie_id": 8,
+  "language": "English",
+  "genre": [
+    "action",
+    "thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e99dd75d4e0c580f8a11c"
+  },
+  "movie_id": 9,
+  "language": "English",
+  "genre": [
+    "drama"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e99fa75d4e0c580f8a11d"
+  },
+  "movie_id": 10,
+  "language": "English",
+  "genre": [
+    "biography",
+    "history"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659e9a0b75d4e0c580f8a11e"
+  },
+  "movie_id": 11,
+  "language": "English",
+  "genre": [
+    "comedy"
+  ]
+}]

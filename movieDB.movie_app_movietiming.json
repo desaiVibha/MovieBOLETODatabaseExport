@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "65648444942a010f20d709b0"
+  },
+  "id": 10,
+  "movie_id": 1,
+  "theatre_id": 1,
+  "timing": {
+    "$date": "2023-11-27T11:57:56.869Z"
+  },
+  "bookedSeats": "[1, 2, 3]"
+},
+{
+  "_id": {
+    "$oid": "6564973482955ba306575c7c"
+  },
+  "id": 13,
+  "movie_id": 1,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2023-11-27T13:18:44.778Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564977382955ba306575c7d"
+  },
+  "id": 14,
+  "movie_id": 1,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2023-11-27T13:19:47.066Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564978982955ba306575c7e"
+  },
+  "id": 15,
+  "movie_id": 2,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2023-11-27T13:20:09.803Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564979b82955ba306575c7f"
+  },
+  "id": 16,
+  "movie_id": 2,
+  "theatre_id": 5,
+  "timing": {
+    "$date": "2023-11-27T13:20:27.363Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656497ae82955ba306575c80"
+  },
+  "id": 17,
+  "movie_id": 2,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2023-11-27T13:20:46.330Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656497c482955ba306575c81"
+  },
+  "id": 18,
+  "movie_id": 3,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2023-11-27T13:21:08.295Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656497d682955ba306575c82"
+  },
+  "id": 19,
+  "movie_id": 3,
+  "theatre_id": 3,
+  "timing": {
+    "$date": "2023-11-27T13:21:26.904Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656497ea82955ba306575c83"
+  },
+  "id": 20,
+  "movie_id": 3,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2023-11-27T13:21:46.533Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564980082955ba306575c84"
+  },
+  "id": 21,
+  "movie_id": 3,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2023-11-27T13:22:08.417Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564981782955ba306575c85"
+  },
+  "id": 22,
+  "movie_id": 4,
+  "theatre_id": 1,
+  "timing": {
+    "$date": "2023-11-27T13:22:31.052Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564982982955ba306575c86"
+  },
+  "id": 23,
+  "movie_id": 4,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2023-11-27T13:22:49.068Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564983b82955ba306575c87"
+  },
+  "id": 24,
+  "movie_id": 4,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2023-11-27T13:23:07.235Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564984f82955ba306575c88"
+  },
+  "id": 25,
+  "movie_id": 4,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2023-11-27T13:23:27.593Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564986782955ba306575c89"
+  },
+  "id": 26,
+  "movie_id": 5,
+  "theatre_id": 1,
+  "timing": {
+    "$date": "2023-11-27T13:23:51.300Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564988882955ba306575c8a"
+  },
+  "id": 27,
+  "movie_id": 5,
+  "theatre_id": 3,
+  "timing": {
+    "$date": "2023-11-27T13:24:24.895Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "6564989a82955ba306575c8b"
+  },
+  "id": 28,
+  "movie_id": 5,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2023-11-27T13:24:42.718Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656498ac82955ba306575c8c"
+  },
+  "id": 29,
+  "movie_id": 5,
+  "theatre_id": 5,
+  "timing": {
+    "$date": "2023-11-27T13:25:00.088Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "656498bd82955ba306575c8d"
+  },
+  "id": 30,
+  "movie_id": 5,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2023-11-27T13:25:17.333Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea14700837092db8814bb"
+  },
+  "id": 31,
+  "movie_id": 6,
+  "theatre_id": 1,
+  "timing": {
+    "$date": "2024-01-10T13:53:11.235Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea1f900837092db8814bc"
+  },
+  "id": 32,
+  "movie_id": 6,
+  "theatre_id": 5,
+  "timing": {
+    "$date": "2024-01-10T13:56:09.686Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea21c00837092db8814bd"
+  },
+  "id": 33,
+  "movie_id": 7,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2024-01-10T13:56:44.146Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea23b00837092db8814be"
+  },
+  "id": 34,
+  "movie_id": 7,
+  "theatre_id": 3,
+  "timing": {
+    "$date": "2024-01-10T13:57:15.003Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea25c00837092db8814bf"
+  },
+  "id": 35,
+  "movie_id": 7,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2024-01-10T13:57:47.897Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea27a00837092db8814c0"
+  },
+  "id": 36,
+  "movie_id": 8,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2024-01-10T13:58:17.777Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea29000837092db8814c1"
+  },
+  "id": 37,
+  "movie_id": 8,
+  "theatre_id": 5,
+  "timing": {
+    "$date": "2024-01-10T13:58:40.178Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659ea2cd00837092db8814c2"
+  },
+  "id": 38,
+  "movie_id": 9,
+  "theatre_id": 1,
+  "timing": {
+    "$date": "2024-01-10T13:59:41.511Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae0700837092db8814c3"
+  },
+  "id": 39,
+  "movie_id": 9,
+  "theatre_id": 3,
+  "timing": {
+    "$date": "2024-01-10T14:47:35.177Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae1d00837092db8814c4"
+  },
+  "id": 40,
+  "movie_id": 9,
+  "theatre_id": 5,
+  "timing": {
+    "$date": "2024-01-10T14:47:56.810Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae4000837092db8814c5"
+  },
+  "id": 41,
+  "movie_id": 10,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2024-01-10T14:48:32.476Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae5500837092db8814c6"
+  },
+  "id": 42,
+  "movie_id": 10,
+  "theatre_id": 6,
+  "timing": {
+    "$date": "2024-01-10T14:48:53.468Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae8300837092db8814c7"
+  },
+  "id": 43,
+  "movie_id": 11,
+  "theatre_id": 2,
+  "timing": {
+    "$date": "2024-01-10T14:49:39.022Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eae9700837092db8814c8"
+  },
+  "id": 44,
+  "movie_id": 11,
+  "theatre_id": 3,
+  "timing": {
+    "$date": "2024-01-10T14:49:59.042Z"
+  },
+  "bookedSeats": ""
+},
+{
+  "_id": {
+    "$oid": "659eaea400837092db8814c9"
+  },
+  "id": 45,
+  "movie_id": 11,
+  "theatre_id": 4,
+  "timing": {
+    "$date": "2024-01-10T14:50:12.805Z"
+  },
+  "bookedSeats": ""
+}]

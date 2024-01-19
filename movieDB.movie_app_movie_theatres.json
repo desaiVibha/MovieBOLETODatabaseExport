@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "655b37295d6be769881f7f43"
+  },
+  "movie_id": 1,
+  "theatre_id": 1
+},
+{
+  "_id": {
+    "$oid": "655b37645d6be769881f7f45"
+  },
+  "movie_id": 1,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "655b376d5d6be769881f7f46"
+  },
+  "movie_id": 1,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "655b37775d6be769881f7f47"
+  },
+  "movie_id": 2,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "655b377f5d6be769881f7f48"
+  },
+  "movie_id": 2,
+  "theatre_id": 5
+},
+{
+  "_id": {
+    "$oid": "655b37845d6be769881f7f49"
+  },
+  "movie_id": 2,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "655b378d5d6be769881f7f4a"
+  },
+  "movie_id": 3,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "655b37925d6be769881f7f4b"
+  },
+  "movie_id": 3,
+  "theatre_id": 3
+},
+{
+  "_id": {
+    "$oid": "655b379b5d6be769881f7f4c"
+  },
+  "movie_id": 3,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "655b37a05d6be769881f7f4d"
+  },
+  "movie_id": 3,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "655b37aa5d6be769881f7f4e"
+  },
+  "movie_id": 4,
+  "theatre_id": 1
+},
+{
+  "_id": {
+    "$oid": "655b37af5d6be769881f7f4f"
+  },
+  "movie_id": 4,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "655b37b35d6be769881f7f50"
+  },
+  "movie_id": 4,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "655b37b75d6be769881f7f51"
+  },
+  "movie_id": 4,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "655b37c15d6be769881f7f52"
+  },
+  "movie_id": 5,
+  "theatre_id": 1
+},
+{
+  "_id": {
+    "$oid": "655b37c55d6be769881f7f53"
+  },
+  "movie_id": 5,
+  "theatre_id": 3
+},
+{
+  "_id": {
+    "$oid": "655b37ca5d6be769881f7f54"
+  },
+  "movie_id": 5,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "655b37cf5d6be769881f7f55"
+  },
+  "movie_id": 5,
+  "theatre_id": 5
+},
+{
+  "_id": {
+    "$oid": "655b37d45d6be769881f7f56"
+  },
+  "movie_id": 5,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "659e970575d4e0c580f8a10a"
+  },
+  "movie_id": 6,
+  "theatre_id": 1
+},
+{
+  "_id": {
+    "$oid": "659e977475d4e0c580f8a10b"
+  },
+  "movie_id": 6,
+  "theatre_id": 5
+},
+{
+  "_id": {
+    "$oid": "659e978475d4e0c580f8a10c"
+  },
+  "movie_id": 7,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "659e978e75d4e0c580f8a10d"
+  },
+  "movie_id": 7,
+  "theatre_id": 3
+},
+{
+  "_id": {
+    "$oid": "659e979475d4e0c580f8a10e"
+  },
+  "movie_id": 7,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "659e97a175d4e0c580f8a10f"
+  },
+  "movie_id": 8,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "659e97a775d4e0c580f8a110"
+  },
+  "movie_id": 8,
+  "theatre_id": 5
+},
+{
+  "_id": {
+    "$oid": "659e97b375d4e0c580f8a111"
+  },
+  "movie_id": 9,
+  "theatre_id": 1
+},
+{
+  "_id": {
+    "$oid": "659e97bb75d4e0c580f8a112"
+  },
+  "movie_id": 9,
+  "theatre_id": 3
+},
+{
+  "_id": {
+    "$oid": "659e97c275d4e0c580f8a113"
+  },
+  "movie_id": 9,
+  "theatre_id": 5
+},
+{
+  "_id": {
+    "$oid": "659e97d275d4e0c580f8a114"
+  },
+  "movie_id": 10,
+  "theatre_id": 4
+},
+{
+  "_id": {
+    "$oid": "659e97da75d4e0c580f8a115"
+  },
+  "movie_id": 10,
+  "theatre_id": 6
+},
+{
+  "_id": {
+    "$oid": "659e97e575d4e0c580f8a116"
+  },
+  "movie_id": 11,
+  "theatre_id": 2
+},
+{
+  "_id": {
+    "$oid": "659e97ed75d4e0c580f8a117"
+  },
+  "movie_id": 11,
+  "theatre_id": 3
+},
+{
+  "_id": {
+    "$oid": "659e97f375d4e0c580f8a118"
+  },
+  "movie_id": 11,
+  "theatre_id": 4
+}]
